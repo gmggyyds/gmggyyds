@@ -28,17 +28,20 @@ jobs:
             dist/grid-dark.svg?palette=github-dark
 
       # 2) 把蛇换成火箭（只动蛇身，格子一根汗毛不碰，脚本会自证）
+      #    输出到独立的 out/：snk 在 Docker 里跑，dist/ 属主是 root，
+      #    runner 用户往里写会 Permission denied。
       - name: Turn the snake into a rocket
         run: |
-          python3 scripts/rocketize.py dist/grid.svg      dist/github-contribution-grid-snake.svg
-          python3 scripts/rocketize.py dist/grid-dark.svg dist/github-contribution-grid-snake-dark.svg
-          rm -f dist/grid.svg dist/grid-dark.svg
+          mkdir -p out
+          python3 scripts/rocketize.py dist/grid.svg      out/github-contribution-grid-snake.svg
+          python3 scripts/rocketize.py dist/grid-dark.svg out/github-contribution-grid-snake-dark.svg
+          ls -l out/
 
       # 3) 推到 output 分支
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
-          build_dir: dist
+          build_dir: out
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
