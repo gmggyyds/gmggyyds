@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="64" viewBox="0 0 640 64" fill="none" role="img" aria-label="99% 的事情都有答案，不要自己瞎折腾">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#1a365d"/>
+      <stop offset="100%" stop-color="#e8543f"/>
+    </linearGradient>
+    <clipPath id="c0"><rect class="t t0" x="-640" y="0" width="640" height="64"/></clipPath>
+    <clipPath id="c1"><rect class="t t1" x="-640" y="0" width="640" height="64"/></clipPath>
+    <clipPath id="c2"><rect class="t t2" x="-640" y="0" width="640" height="64"/></clipPath>
+  </defs>
+  <style>
+    .l { font-family:'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Helvetica Neue',Arial,sans-serif; font-size:21px; font-weight:600; fill:url(#g); opacity:0; animation:none 12.900000000000002s linear infinite; }
+    .t { animation:none 12.900000000000002s linear infinite; }
+    @keyframes o0 { 0.0% {opacity:1} 29.457% {opacity:1} 33.333% {opacity:0} 100.0% {opacity:0} }
+    @keyframes k0 { 0.0% {transform:translateX(0)} 12.403% {transform:translateX(640px)} 100.0% {transform:translateX(640px)} }
+    .l0 { animation-name:o0; }
+    .t0 { animation-name:k0; }
+    @keyframes o1 { 0.0% {opacity:0} 33.333% {opacity:1} 62.791% {opacity:1} 66.667% {opacity:0} 100.0% {opacity:0} }
+    @keyframes k1 { 0.0% {transform:translateX(0)} 33.333% {transform:translateX(0)} 45.736% {transform:translateX(640px)} 100.0% {transform:translateX(640px)} }
+    .l1 { animation-name:o1; }
+    .t1 { animation-name:k1; }
+    @keyframes o2 { 0.0% {opacity:0} 66.667% {opacity:1} 96.124% {opacity:1} 100.0% {opacity:0} }
+    @keyframes k2 { 0.0% {transform:translateX(0)} 66.667% {transform:translateX(0)} 79.07% {transform:translateX(640px)} 100.0% {transform:translateX(640px)} }
+    .l2 { animation-name:o2; }
+    .t2 { animation-name:k2; }
+  </style>
+  <g clip-path="url(#c0)">
+    <text class="l l0" x="320" y="40" text-anchor="middle">99% 的事情都有答案，不要自己瞎折腾</text>
+  </g>
+  <g clip-path="url(#c1)">
+    <text class="l l1" x="320" y="40" text-anchor="middle">先定生意，再定 Agent</text>
+  </g>
+  <g clip-path="url(#c2)">
+    <text class="l l2" x="320" y="40" text-anchor="middle">吸进来，得化得掉</text>
+  </g>
+</svg>
