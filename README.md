@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a365d,100:e8543f&height=170&section=header&text=%E5%9B%BD%E6%B0%91%20Sam&fontSize=48&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=%E8%B7%A8%E5%A2%83%E7%94%B5%E5%95%86%20%C2%B7%20AI%20Native&descAlignY=58&descSize=16" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=600&color=E8543F&center=true&vCenter=true&width=620&lines=%E4%B8%80%E4%B8%AA%E5%93%81%E7%89%8C%20%3D%20%E4%B8%80%E7%A7%8D%E6%9D%90%E6%96%99%20%3D%20%E4%B8%80%E7%B1%BB%E4%BA%BA%E7%BE%A4;%E5%85%88%E5%AE%9A%E7%94%9F%E6%84%8F%EF%BC%8C%E5%86%8D%E5%AE%9A%20Agent;%E5%90%B8%E8%BF%9B%E6%9D%A5%EF%BC%8C%E5%BE%97%E5%8C%96%E5%BE%97%E6%8E%89" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=600&color=E8543F&center=true&vCenter=true&width=620&lines=99%25%20%E7%9A%84%E4%BA%8B%E6%83%85%E9%83%BD%E6%9C%89%E7%AD%94%E6%A1%88%EF%BC%8C%E4%B8%8D%E8%A6%81%E8%87%AA%E5%B7%B1%E7%9E%8E%E6%8A%98%E8%85%BE;%E5%85%88%E5%AE%9A%E7%94%9F%E6%84%8F%EF%BC%8C%E5%86%8D%E5%AE%9A%20Agent;%E5%90%B8%E8%BF%9B%E6%9D%A5%EF%BC%8C%E5%BE%97%E5%8C%96%E5%BE%97%E6%8E%89" alt="typing" />
 
 <img src="./hakulamatata.png" alt="HAKULAMATATA" width="72%">
 
